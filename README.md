@@ -1,2 +1,1 @@
-# diabetes-prediction-ml
-Diabetes prediction using Logistic Regression, SVM, Random Forest, and ensembles.
+This project implements diabetes prediction on the Pima Indians dataset using Logistic Regression, SVM, and Random Forest with preprocessing, hyperparameter tuning, cross-validation, and ensemble methods
